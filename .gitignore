@@ -13,7 +13,7 @@ dist/
 # SQLite DB file
 *.sqlite
 *.sqlite3
-*.db
+# *.db 
 *.db-journal
 
 # OS-specific
